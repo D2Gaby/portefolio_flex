@@ -11,7 +11,7 @@ body {
 body h1,
 body h2,
 body h3 {
-  font-size: 3em;
+  font-size: 1.5em;
 }
 
 body h3 {
@@ -19,7 +19,7 @@ body h3 {
 }
 
 body header nav {
-  padding-top: 200px;
+  padding-top: 100px;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -98,8 +98,8 @@ body header nav ul li a:hover {
 }
 
 body .emote {
-  height: 225px;
-  width: 200px;
+  height: 112.5px;
+  width: 100px;
   display: block;
   margin: auto;
   padding-bottom: 8vh;
@@ -135,7 +135,7 @@ body #profile #block_profile {
 
 body #profile #block_profile .textprofile {
   text-align: center;
-  font-size: 3em;
+  font-size: 2em;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
